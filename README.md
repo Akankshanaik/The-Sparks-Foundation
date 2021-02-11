@@ -1,6 +1,6 @@
 # The Sparks Foundation
 
-# Sparks Foundation Web Development Internship Project : Basic-Banking-Syatem 
+## Sparks Foundation Web Development Internship Project : Basic-Banking-Syatem 
 A Web Application used to transfer money between multiple users.  
 
 Stack used - 
